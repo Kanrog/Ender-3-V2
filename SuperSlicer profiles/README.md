@@ -1,0 +1,2 @@
+I've uploaded my SuperSlicer profiles for you to use, these are by no means perfect, but its a good base. 
+To use them, open SuperSlicer, press "help" at the top, then "Show Configuration Folder" and place the folders in there.
