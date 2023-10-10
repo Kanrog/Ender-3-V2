@@ -1,4 +1,5 @@
 # Ender 3 V2
+<p><img alt="" src="https://github.com/Kanrog/Ender-3-V2/blob/main/Photos/E3V2.jpg?raw=true" /></p>
 
 <p>My Documentation for the Ender 3 V2 3D Printer by Creality</a><br />
 <br />
@@ -17,7 +18,10 @@ Please only use my files as a reference.</em></p>
 <li>Silicone bed spacers</li>
 <li>Magnetic PEI sheet</li>
 <li>Klipper (Orangepi Zero LTS)</li>
-<li>Fully enclosed</li>
+<li>Fully enclosed (cardboard king)</li>
 </ul>
 
+<p><img alt="" src="https://github.com/Kanrog/Ender-3-V2/blob/main/Photos/E3V2_enclosure.jpg?raw=true" /></p>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3LNZ6A)
+
